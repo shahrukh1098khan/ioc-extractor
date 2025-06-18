@@ -43,6 +43,14 @@
 
 ---
 
+## 📦 Download Executable
+
+A ready-to-use Windows executable is available in the [`release/`](./release/) folder:
+
+You can run it without installing Python or any dependencies.
+
+---
+
 ## 👨‍💻 How to Use (Developers)
 
 ### Requirements
@@ -70,6 +78,8 @@ python -m PyInstaller --onefile --windowed --icon=icon.ico --add-data "bg.png;."
 
 dist/IOCs.exe
 
+---
+
 ## 🔐 File Integrity
 
 To verify the integrity of the downloaded EXE file:
@@ -78,6 +88,7 @@ To verify the integrity of the downloaded EXE file:
 
 b5c703739f66a23651f00daa7011d0241bd3cb61abb07c22d62239cb9084353b
 
+---
 
 ## 👤 Author
 
