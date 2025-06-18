@@ -66,10 +66,14 @@ Output EXE will be in:
 
 dist/IOCs.exe
 
+## 👤 Author
 
-👤 Author
-Shahrukh Khan
+**Shahrukh Khan**
 
-📄 License
+---
+
+## 📄 License
+
 MIT License — Free for personal and commercial use.
+
 
