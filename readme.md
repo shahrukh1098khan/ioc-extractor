@@ -49,9 +49,11 @@
 
 - Python 3.8 or later
 
-Install dependencies:
+## 📦 Install Dependencies
+
 ```bash
 pip install -r requirements.txt
+```
 
 Run the application:
 
@@ -75,5 +77,6 @@ dist/IOCs.exe
 ## 📄 License
 
 MIT License — Free for personal and commercial use.
+
 
 
