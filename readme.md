@@ -55,16 +55,18 @@
 pip install -r requirements.txt
 ```
 
-Run the application:
+## Run the application:
 
 python IOCs.py
 
-Build Your Own EXE
+## Build Your Own EXE
 You can generate a standalone executable using PyInstaller:
 
+```bash
 python -m PyInstaller --onefile --windowed --icon=icon.ico --add-data "bg.png;." --add-data "icon.ico;." IOCs.py
+```
 
-Output EXE will be in:
+## Output EXE will be in:
 
 dist/IOCs.exe
 
