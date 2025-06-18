@@ -70,6 +70,15 @@ python -m PyInstaller --onefile --windowed --icon=icon.ico --add-data "bg.png;."
 
 dist/IOCs.exe
 
+## 🔐 File Integrity
+
+To verify the integrity of the downloaded EXE file:
+
+**SHA-256**:
+
+b5c703739f66a23651f00daa7011d0241bd3cb61abb07c22d62239cb9084353b
+
+
 ## 👤 Author
 
 **Shahrukh Khan**
